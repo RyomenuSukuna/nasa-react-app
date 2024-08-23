@@ -37,7 +37,7 @@ You need to obtain an API key from NASA's website to use the API.
 4. Create a `.env` file in the root directory of the project and add your NASA API key:
 
    ```
-   REACT_APP_NASA_API_KEY=your_api_key_here
+   VITE_NASA_API_KEY=your_api_key_here
    ```
 
 5. Start the development server:
